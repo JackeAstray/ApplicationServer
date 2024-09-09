@@ -1,0 +1,11 @@
+{
+  "Port": 31313,
+  "Https": false,
+  "ConnectionMode": "Kcp",
+  "Secret": "longlifeastray-xxangtxssjdmfguia0shwk820dnf0",
+  "ConnectionStrings": {
+    "Database": "appserver",
+    "ServerVersion": "5.7.44",
+    "TarefasConnection": "Server=121.36.53.227;Port=3306;User ID=LLAServer;Password=@Lla982109683@;Database=applicationserver"
+  }
+}
